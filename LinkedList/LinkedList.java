@@ -1,4 +1,3 @@
-
 class Node{
     int data;
     Node next;
@@ -14,6 +13,10 @@ class LinkedList {
 
     LinkedList() {
         head = null;
+    }
+
+    Node getHead(){
+        return this.head;
     }
 
     void insertAtBeginning(int data) {
