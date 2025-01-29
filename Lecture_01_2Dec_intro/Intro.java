@@ -1,4 +1,4 @@
-package Lecture_1_2Dec_intro;
+package Lecture_01_2Dec_intro;
 
 public class Intro {
     public static void main(String[] args) {
