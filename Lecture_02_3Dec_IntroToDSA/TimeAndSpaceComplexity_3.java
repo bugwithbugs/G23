@@ -1,4 +1,4 @@
-package Lecture_2_3Dec_IntroToDSA;
+package Lecture_02_3Dec_IntroToDSA;
 
 import java.util.Scanner;
 
