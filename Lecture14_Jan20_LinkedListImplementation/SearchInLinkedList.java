@@ -1,4 +1,4 @@
-package Lecture14_Jan20_LinkedList;
+package Lecture14_Jan20_LinkedListImplementation;
 
 class Node {
 
