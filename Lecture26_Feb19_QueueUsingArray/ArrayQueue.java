@@ -1,4 +1,4 @@
-package Lecture26_Feb19_QueueUsingArrayAndLinkedList;
+package Lecture26_Feb19_QueueUsingArray;
 
 public class ArrayQueue {
 
